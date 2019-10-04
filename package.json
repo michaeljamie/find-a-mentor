@@ -9,7 +9,7 @@
     "inquirer-checkbox-plus-prompt": "^1.0.1",
     "iso-639-1": "^2.0.5",
     "lodash": "^4.17.11",
-    "react": "^16.7.0",
+    "react": "^16.10.2",
     "react-aria-offcanvas": "^1.1.10",
     "react-autocomplete": "^1.8.1",
     "react-dom": "^16.7.0",
